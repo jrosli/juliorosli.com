@@ -1,0 +1,29 @@
+baseURL = "http://www.juliorosli.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "juliorosli.com"
+theme = "cupper-hugo-theme"
+googleAnalytics = "UA-135949513-1"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "An Implementation Engineer. Learning software development. Created this blog to document stuff that I've learned."
+  homeMetaContent = "An Implementation Engineer. Learning software development. Created this blog to document stuff that I've learned."
+  footer = "© 2019. juliorosli.com"
+  dateFormat = "Jan 2, 2006"
+  codePenUser = "jrosli"
+
+[menu]
+  [[menu.nav]]
+    name = "Blog"
+    url = "/post/"
+    weight = 2
+  # [[menu.nav]]
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 3

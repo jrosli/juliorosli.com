@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven on juliorosli.com</title>
+    <link>http://www.juliorosli.com/tags/maven/</link>
+    <description>Recent content in Maven on juliorosli.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.juliorosli.com/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginner&#39;s guide to Maven</title>
+      <link>http://www.juliorosli.com/beginers-guide-to-maven/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.juliorosli.com/beginers-guide-to-maven/</guid>
+      <description>What is Maven? Maven is a build automation tool used primarily for Java projects.&amp;mdash; Wikipedia Maven has many use in Java projects, one of the use case that I use is for dependency manager. If you know PHP and Laravel, most likely you will use composer. In Node.js environment, NPM.
+Maven vs Gradle In Java environment, the most popular build tool are maven and gradle. If you ever played with android environment, most likely you have used gradle before.</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot - Hello World</title>
+      <link>http://www.juliorosli.com/spring-boot-hello-world/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.juliorosli.com/spring-boot-hello-world/</guid>
+      <description>Tools used - Maven 3.5.2 - Java 8 - [start.spring.io](https://start.spring.io/) - Eclipse Java EE IDE for Web Developers  Description In this sample, we will create a spring boot application that will return Hello World when we go to the endpoint /hello.
+Generating POM.xml Go to start.spring.io
+start.spring.io The first part is project dependencies. We can specify components that we want to use in our project here.</description>
+    </item>
+    
+  </channel>
+</rss>
