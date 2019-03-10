@@ -12,7 +12,7 @@ googleAnalytics = "UA-135949513-1"
   quality = 99
 
 [params]
-  description = "An Implementation Engineer. Learning software development. Created this blog to document stuff that I've learned."
+  description = "I'm **Julio Rosli**. An Implementation Engineer."
   homeMetaContent = "An Implementation Engineer. Learning software development. Created this blog to document stuff that I've learned."
   footer = "© 2019. juliorosli.com"
   dateFormat = "Jan 2, 2006"
