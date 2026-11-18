@@ -58,27 +58,20 @@ Notable Projects:
     - Developed a Cordova Plugin for iOS and Android to enable Flight & Movie Ticket Purchase.
 
 - New payment channel (Indonesia, Telecommunication, 2016 - 2017)
-    - Delivered a new payment channel for a telecommunications client that processed 10M+ transactions per month
+    - Delivered a new payment channel for a telecommunications client that processed 10M+ transactions per month.
 
 
 **Main technologies:** : WAY4 Playform (Core, WAY4U, Transaction Switch), Java, Groovy, Spring, PL/SQL, XSLT, SOAP, REST, Webhooks, Apache Cordova, JavaScript, SoapUI, Postman
 
-### [Software Laboratory Center - Bina Nusantara University](https://www.linkedin.com/school/15094226/)
+### [Software Laboratory Center - Bina Nusantara University](https://binus.ac.id/)
 
 **Database Administrator** · September 2013–February 2015 · Jakarta, Indonesia
 
-- Used Microsoft SQL Server 2008 and Excel to support practical classes and exams.
-- Maintained an internal ASP.NET web application.
-- Coordinated practical classes and exams with other departments.
+- Coordinated and maintained database & internal to support lab and exam activities.
 
 **Teaching Assistant** · September 2012–August 2013 · Jakarta, Indonesia
 
 - Taught various programming & database courses for college students
-    - Desktop Programming     : Java GUI (Swing)
-    - Game Programming        : Java (Graphics2D) 
-    - Basic Web Programming   : HTML, CSS, JS, PHP, JSP
-    - Database                : MS SQL, MYSQL, Ms Access
-    - Basic Programming       : Java, C++
 
 
 ## Education
