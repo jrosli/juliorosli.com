@@ -1,0 +1,14 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = false
+
+[homepage]
+  layout = "page"
+  showRecent = false
+
+[footer]
+  showMenu = false
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true

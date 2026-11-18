@@ -2,14 +2,13 @@
 date: "2018-08-23"
 tags: ["docker"]
 title: "Docker Intro"
+draft: true
 toc: false
 ---
 
 ## What is Docker?
 
-{{% blockquote author="Wikipedia" %}}
-Docker is a computer program that performs operating-system-level virtualization, also known as “containerization”.
-{{% /blockquote %}}
+> Docker is a computer program that performs operating-system-level virtualization, also known as “containerization”.
 
 After playing with it a couple days ago, some of the important points are:
 
@@ -44,9 +43,9 @@ Use [Kinematic](https://kitematic.com/) if you want to use GUI to control Docker
 
 To test if the docker configured properly, lets start with a Docker’s Hello World.
 Execute below command in terminal:
-{{<cmd>}}
+```bash
 docker run hello-world
-{{</cmd>}}
+```
 
 {{< figure
 img="Docker-Hello-World.png" 

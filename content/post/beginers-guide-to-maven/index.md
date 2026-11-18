@@ -2,14 +2,13 @@
 date: "2018-09-11"
 tags: ["maven"]
 title: "Beginner's guide to Maven"
+draft: true
 toc: true
 ---
 
 ## What is Maven?
 
-{{% blockquote author="Wikipedia" %}}
-Maven is a build automation tool used primarily for Java projects.
-{{% /blockquote %}}
+> Maven is a build automation tool used primarily for Java projects.
 
 Maven has many use in Java projects, one of the use case that I use is for [dependency manager](https://medium.com/prodsters/what-are-dependency-managers-26d7d907deb8). If you know PHP and Laravel, most likely you will use [composer](https://getcomposer.org/doc/00-intro.md). In Node.js environment, [NPM](https://en.wikipedia.org/wiki/Npm_(software)). 
 
@@ -89,13 +88,16 @@ options="700x" >}}
 
 ## Testing Maven installation
 To test maven installation, execute:
-{{<cmd>}}
+```bash
 mvn -v 
-{{</cmd>}}
+```
 
-{{% note %}}
+---
+**NOTE**
+
 You might need to close and re-open cmd to have environment variables changes takes effect.
-{{% /note %}}
+
+---
 
 {{< figure
 img="testing-maven-installation.png" 

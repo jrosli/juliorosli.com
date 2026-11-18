@@ -1,0 +1,15 @@
+locale = "en"
+title = "Julio Rosli"
+
+[params]
+  description = "Julio Rosli is a Senior Software Engineer and Feature Team Lead in Munich."
+
+[params.author]
+  name = "Julio Rosli"
+  headline = "Senior Software Engineer · Feature Team Lead"
+  bio = "Backend engineering, payments, and practical product delivery."
+  links = [
+    { email = "mailto:me@juliorosli.com" },
+    { linkedin = "https://www.linkedin.com/in/jrosli/" },
+    { github = "https://github.com/jrosli" }
+  ]

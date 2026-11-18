@@ -2,6 +2,7 @@
 date: "2018-09-02"
 tags: ["spring","spring boot","maven"]
 title: "Spring Boot - Hello World"
+draft: true
 toc: true
 ---
 
@@ -84,10 +85,9 @@ Since we are generating maven project, Inside the generated project, there will 
 
 ## Downloading Maven Dependencies
 - Navigate to the folder and execute: 
-{{<cmd>}}
+```bash
 mvn install
-{{</cmd>}}
-
+```
 
 {{< figure
 img="Downloading-Dependencies.png" 
@@ -137,7 +137,7 @@ img="Project-structure-1.png"
 caption="Create new package and class"
 command="Original" >}}
 
-{{< code numbered="true" >}}
+```java 
 package com.training.spring.controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -150,7 +150,7 @@ public class HelloController {
 		[[[return "Hello World!";]]]
 	}
 }
-{{< /code >}}
+```
 
 1. First, we annotate the class to be a `@RestController`. This class will be a controller that will return a `ResponseBody`. If we trace back, it is coming from `@Controller`, and `@Controller` is a `@Component`. So this class will be initialized when the application starts.
 
@@ -169,9 +169,9 @@ command="Original" >}}
 
 ### b. Running SpringBoot application using Maven
 - To run the application, navigate to the project folder and execute:
-{{<cmd>}}
+```bash
 mvn spring-boot:run
-{{</cmd>}}
+```
 
 {{< figure
 img="Run-using-maven.png" 
