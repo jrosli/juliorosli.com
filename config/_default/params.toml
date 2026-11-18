@@ -2,6 +2,7 @@ colorScheme = "blowfish"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = false
+disableTextInHeader = true
 
 [homepage]
   layout = "page"
